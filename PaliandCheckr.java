@@ -12,7 +12,7 @@ public class PaliandCheckr{
 		}else{
 			System.out.println("The string is not paliandrome");
 		}
-		//palindrome
+
 	}
 	private static boolean isPaian(String args[]){
 		str = str.replaceAll("\\s","").toLowerCase();
