@@ -4,7 +4,8 @@ import java.util.*;
 // class for Even Number
 class EvenNum implements Runnable {  
     public int a;  
-    public EvenNum(int a) {   
+    public EvenNum(int a) { 
+        //jhgfgfdgn  
         this.a = a;  
     }  
     public void run() {   
